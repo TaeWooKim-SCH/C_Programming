@@ -1,0 +1,44 @@
+# Visual Studio 폴더 및 설정 파일
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.userprefs
+
+# 빌드 출력 폴더 (디버그/릴리즈 환경)
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# C/C++ 컴파일 및 링커 생성물
+*.obj
+*.exe
+*.pdb
+*.idb
+*.ilk
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+*.pch
+*.lib
+*.dll
+*.exp
+*.iobj
+*.ipdb
+
+# 로그 및 추적 파일
+*.log
+*.tlog
+*.lastbuildstate
+*.unsuccessfulbuild
+
+# 임시 파일 및 캐시
+*.tmp
+*.bak
+*.cache
+*.ipch
