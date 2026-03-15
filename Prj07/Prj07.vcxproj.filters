@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="test.c">
+    <ClCompile Include="07sizeflow.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
